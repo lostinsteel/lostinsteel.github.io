@@ -2,143 +2,143 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/fr/tags/acier/</loc>
+    <loc>https://lostinsteel.github.io/fr/tags/acier/</loc>
     <lastmod>2025-05-18T23:27:03+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/posts/base_plate_connections/</loc>
-    <lastmod>2025-05-18T23:27:03+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/posts/base_plate_connections/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/posts/base_plate_connections/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/posts/base_plate_connections/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/fr/categories/</loc>
+    <loc>https://lostinsteel.github.io/fr/posts/base_plate_connections/</loc>
     <lastmod>2025-05-18T23:27:03+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/categories/"
+                href="https://lostinsteel.github.io/posts/base_plate_connections/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="https://lostinsteel.github.io/en/posts/base_plate_connections/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/categories/"
+                href="https://lostinsteel.github.io/fr/posts/base_plate_connections/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/</loc>
+    <loc>https://lostinsteel.github.io/fr/categories/</loc>
     <lastmod>2025-05-18T23:27:03+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/"
+                href="https://lostinsteel.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="https://lostinsteel.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/"
+                href="https://lostinsteel.github.io/fr/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/tags/platine/</loc>
-    <lastmod>2025-05-18T23:27:03+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/posts/</loc>
+    <loc>https://lostinsteel.github.io/fr/</loc>
     <lastmod>2025-05-18T23:27:03+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/posts/"
+                href="https://lostinsteel.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/"
+                href="https://lostinsteel.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/posts/"
+                href="https://lostinsteel.github.io/fr/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/tags/structures/</loc>
+    <loc>https://lostinsteel.github.io/fr/tags/platine/</loc>
     <lastmod>2025-05-18T23:27:03+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/categories/structures-en-acier/</loc>
-    <lastmod>2025-05-18T23:27:03+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/tags/supports/</loc>
-    <lastmod>2025-05-18T23:27:03+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/tags/</loc>
+    <loc>https://lostinsteel.github.io/fr/posts/</loc>
     <lastmod>2025-05-18T23:27:03+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/tags/"
+                href="https://lostinsteel.github.io/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="https://lostinsteel.github.io/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/tags/"
+                href="https://lostinsteel.github.io/fr/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/archives/</loc>
+    <loc>https://lostinsteel.github.io/fr/tags/structures/</loc>
+    <lastmod>2025-05-18T23:27:03+02:00</lastmod>
+  </url><url>
+    <loc>https://lostinsteel.github.io/fr/categories/structures-en-acier/</loc>
+    <lastmod>2025-05-18T23:27:03+02:00</lastmod>
+  </url><url>
+    <loc>https://lostinsteel.github.io/fr/tags/supports/</loc>
+    <lastmod>2025-05-18T23:27:03+02:00</lastmod>
+  </url><url>
+    <loc>https://lostinsteel.github.io/fr/tags/</loc>
+    <lastmod>2025-05-18T23:27:03+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/archives/"
+                href="https://lostinsteel.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/archives/"
+                href="https://lostinsteel.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/archives/"
+                href="https://lostinsteel.github.io/fr/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/search/</loc>
+    <loc>https://lostinsteel.github.io/fr/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/search/"
+                href="https://lostinsteel.github.io/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/search/"
+                href="https://lostinsteel.github.io/en/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/search/"
+                href="https://lostinsteel.github.io/fr/archives/"
+                />
+  </url><url>
+    <loc>https://lostinsteel.github.io/fr/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://lostinsteel.github.io/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lostinsteel.github.io/en/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lostinsteel.github.io/fr/search/"
                 />
   </url>
 </urlset>
